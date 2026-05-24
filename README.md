@@ -1,11 +1,18 @@
+<!-- BUKA: Struktur Dasar yang Aman (Mencegah Bug Format) -->
+<html>
 <body>
   <center>
 <h1 align="center">~ 🚀 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 🚀 ~</h1>
 <br>
 
-<!-- TAMBAHAN: Garis pembatas pelangi agar lebih cantik -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
+<!-- TAMBAHAN: Garis pembatas animasi estetis -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 <br>
+
+<!-- TAMBAHAN: Profile View Counter (Penghitung Pengunjung) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YukiiKazunomiya&label=Profile%20views&color=7E37F9&style=flat" alt="Yukii Kazunomiya" />
+</p>
 
 <div align="center">
 <!-- <a href="https://discord.com/users/202740603790819328" > -->
@@ -23,10 +30,10 @@
     <div align="center">
 <!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
       </div>
-
+      
 <!-- TAMBAHAN: Garis pembatas -->
 <br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 <br>
 
 <div>
@@ -34,8 +41,8 @@
   <div align="center">
 <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
   </div>
-
-<!-- TAMBAHAN: Membungkus dengan <ul> agar <li> berjalan normal tanpa bug format -->
+  
+<!-- BUG FIX: Tag <ul> digunakan agar <li> menjadi list rapi dan anti bug -->
 <ul>
 <li>
  <b>Name:</b> Yukii</li>
@@ -54,15 +61,15 @@
 <li>
 <b>Working @:</b> Soft Developer
 </li>
-<!-- TAMBAHAN: Menutup tag <ul> -->
+<!-- BUG FIX: Penutup tag list -->
 </ul>
 <br><br><br>
 </div>
 
-<!-- TAMBAHAN: Membersihkan efek gambar menyamping (align="right") agar teks di bawah tidak tergeser ke atas (Bug Fix Tampilan) -->
+<!-- BUG FIX: Pembersih Layout agar gambar di kanan tidak numpuk -->
 <br clear="both">
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 <br>
 
@@ -77,25 +84,51 @@
 <div>
   <br>
 <p align="center"><img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
-<!-- TAMBAHAN: Beberapa badge baru (JavaScript & GitHub) agar terlihat lebih full dan keren -->
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<!-- TAMBAHAN: Extra Badges -->
+<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+<img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<!-- BUG FIX: Penutup tag p -->
 </p>
 </div>
 
-<!-- TAMBAHAN: Membersihkan layout dari gambar menyamping lagi (Bug Fix Tampilan) -->
+<!-- BUG FIX: Pembersih layout bagian 2 -->
 <br clear="both">
+<br>
 
-<!-- TAMBAHAN: Bagian Statistik GitHub Keren dengan namamu di Bawah -->
+<!-- TAMBAHAN SECTION 1: Top Languages -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
-<br><br>
-<h2 align="center"> ~ 📈 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼 📈 ~ </h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YukiiKazunomiya&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YukiiKazunomiya&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  <br>
+  <h2 align="center"> ~ 💻 𝓜𝔂 𝓣𝓸𝓹 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 💻 ~ </h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YukiiKazunomiya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+<br>
+
+<!-- TAMBAHAN SECTION 2: GitHub Stats -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  <br>
+  <h2 align="center"> ~ 📈 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼 📈 ~ </h2>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=YukiiKazunomiya&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YukiiKazunomiya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </p>
+</div>
+<br>
+
+<!-- TAMBAHAN SECTION 3: Connect With Me -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  <br>
+  <h2 align="center"> ~ 🌐 𝓒𝓸𝓷𝓷𝓮𝓬𝓽 𝔀𝓲𝓽𝓱 𝓜𝓮 🌐 ~ </h2>
+  <p align="center">
+    <a href="https://discord.com/users/202740603790819328"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+    <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a> 
+  </p>
 </div>
 
-<!-- TAMBAHAN: Menutup semua tag awal di baris pertama kamu agar tidak merusak layout browser -->
+<!-- BUG FIX: Menutup SEMUA struktur utama -->
   </center>
 </body>
+</html>
